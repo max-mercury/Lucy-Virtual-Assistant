@@ -1,0 +1,304 @@
+1521560968893	geckodriver	INFO	geckodriver 0.20.0
+1521560968906	geckodriver	INFO	Listening on 127.0.0.1:33725
+1521560969938	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wFBubT3br1e7"
+1521560971872	Marionette	INFO	Enabled via --marionette
+1521560976948	Marionette	INFO	Listening on port 45049
+1521560977053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1521560977160	Marionette	DEBUG	loaded listener.js
+1522423102456	geckodriver	INFO	geckodriver 0.20.0
+1522423102532	geckodriver	INFO	Listening on 127.0.0.1:54275
+1522423103413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ssr3nS4edjqB"
+1522423105549	Marionette	INFO	Enabled via --marionette
+1522423110710	Marionette	INFO	Listening on port 36955
+1522423110825	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1522423110932	Marionette	DEBUG	loaded listener.js
+1522423111061	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522423112219	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522423112220	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522423112533	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=R1W-WsesHqOdX7evj7gB"
+1522423113556	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=R1W-WsesHqOdX7evj7gB"
+1522423177467	geckodriver	INFO	geckodriver 0.20.0
+1522423177481	geckodriver	INFO	Listening on 127.0.0.1:44625
+1522423178478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ALJSdcstZ8IC"
+1522423180348	Marionette	INFO	Enabled via --marionette
+1522423185087	Marionette	INFO	Listening on port 32959
+1522423185190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1522423185304	Marionette	DEBUG	loaded listener.js
+1522423185389	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522423186495	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522423186496	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522423186868	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=kVW-WoXgLrSdX-TokfgJ"
+1522423188153	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=kVW-WoXgLrSdX-TokfgJ"
+1522423650668	geckodriver	INFO	geckodriver 0.20.0
+1522423650682	geckodriver	INFO	Listening on 127.0.0.1:48969
+1522423651683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.O571J0iZbfWi"
+1522423653583	Marionette	INFO	Enabled via --marionette
+1522423658313	Marionette	INFO	Listening on port 39907
+1522423658432	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1522423658540	Marionette	DEBUG	loaded listener.js
+1522423658613	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1522423659003	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1522423659004	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1522423662362	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/"
+1522423663252	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://pubads.g.doubleclick.net/gampad/ads?sz=850x250&gdfp_req=1&ad_rule=0&iu=/4061/com.ythome&impl=ifr&scp=ssl%3D1%26dc_yt%3D1%26kga%3D-1%26kgg%3D-1%26klg%3Den%26kmyd%3Dvideo-masthead%26ytdevice%3D1%26ytexp%3D9471235,9422596,23704845,9466767,23731733,23728036,23726506,23729841,23705778,23729848,23714105,23732290,9475654,23726648,23731154,9488991,23707875,23733863,9469037,23729395,23727732,9477113,23731707,23729194,23720702,23727637,9477942,23732788%26kbsg%3DHPIN180330&d_imp=1&ytdevice=1&pucrd=CgYIABAAGAB4Ag&correlator=1605939686180165"
+1522423663306	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/video_masthead?video_id=asxx8fnzjBQ&textLine1=Netflix%3A+Heating+Up&textLine2=All+the+hottest+stories.+Anytime%2C+anywhere.&autocrop=1&autoplay_start_time=0&autoplay_duration=25000&channel_banner=0&video_wall=0&subscribe_button=1&subscriber_count=1&site_cta=1&cta_label=WATCH+NOW&layout=material&line_item_id=4514018073&creative_id=138228860389"
+1522423663312	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/video_masthead?video_id=asxx8fnzjBQ&textLine1=Netflix%3A+Heating+Up&textLine2=All+the+hottest+stories.+Anytime%2C+anywhere.&autocrop=1&autoplay_start_time=0&autoplay_duration=25000&channel_banner=0&video_wall=0&subscribe_button=1&subscriber_count=1&site_cta=1&cta_label=WATCH+NOW&layout=material&line_item_id=4514018073&creative_id=138228860389"
+1522423663316	Marionette	DEBUG	Received DOM event "pageshow" for "https://pubads.g.doubleclick.net/gampad/ads?sz=850x250&gdfp_req=1&ad_rule=0&iu=/4061/com.ythome&impl=ifr&scp=ssl%3D1%26dc_yt%3D1%26kga%3D-1%26kgg%3D-1%26klg%3Den%26kmyd%3Dvideo-masthead%26ytdevice%3D1%26ytexp%3D9471235,9422596,23704845,9466767,23731733,23728036,23726506,23729841,23705778,23729848,23714105,23732290,9475654,23726648,23731154,9488991,23707875,23733863,9469037,23729395,23727732,9477113,23731707,23729194,23720702,23727637,9477942,23732788%26kbsg%3DHPIN180330&d_imp=1&ytdevice=1&pucrd=CgYIABAAGAB4Ag&correlator=1605939686180165"
+1522423665498	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/"
+[Parent 3931] WARNING: pipe error (120): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Parent 3931] WARNING: pipe error (61): Connection reset by peer: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1524741476707	geckodriver	INFO	geckodriver 0.20.0
+1524741476783	geckodriver	INFO	Listening on 127.0.0.1:49353
+1524741477664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VDLhNioLsX6E"
+1524741479634	Marionette	INFO	Enabled via --marionette
+1524741484815	Marionette	INFO	Listening on port 42527
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1524741484933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1524741485034	Marionette	DEBUG	loaded listener.js
+1524741485110	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524741485504	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524741485505	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524741485802	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/"
+1524741486922	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/"
+1524741646351	geckodriver	INFO	geckodriver 0.20.0
+1524741646363	geckodriver	INFO	Listening on 127.0.0.1:55029
+1524741647363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.p5YsDBgDnM1K"
+1524741649039	Marionette	INFO	Enabled via --marionette
+1524741653471	Marionette	INFO	Listening on port 45573
+1524741653569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1524741653672	Marionette	DEBUG	loaded listener.js
+1524741653733	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1524741654138	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1524741654139	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1524741654443	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/"
+1524741655542	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/"
+1525317452069	geckodriver	INFO	geckodriver 0.20.0
+1525317452122	geckodriver	INFO	Listening on 127.0.0.1:54629
+1525317453083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lFLloESWIRu6"
+1525317454984	Marionette	INFO	Enabled via --marionette
+1525317459986	Marionette	INFO	Listening on port 43815
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1525317460034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525317460147	Marionette	DEBUG	loaded listener.js
+1525317460305	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525317461109	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525317461110	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525317461498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/"
+1525317463015	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1525317463025	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1525317464529	geckodriver::marionette	ERROR	Failed to stop browser process
+1525322228765	geckodriver	INFO	geckodriver 0.20.0
+1525322228852	geckodriver	INFO	Listening on 127.0.0.1:51765
+1525322229742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2nRwLVrPPWuA"
+1525322231987	Marionette	INFO	Enabled via --marionette
+1525322237743	Marionette	INFO	Listening on port 39543
+1525322237802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1525322237928	Marionette	DEBUG	loaded listener.js
+1525322238085	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525322238804	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525322238805	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525322239253	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/"
+1525322240231	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1525322242137	geckodriver::marionette	ERROR	Failed to stop browser process
+1525322292359	geckodriver	INFO	geckodriver 0.20.0
+1525322292372	geckodriver	INFO	Listening on 127.0.0.1:34175
+1525322293370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PUS47GxwGebp"
+1525322295312	Marionette	INFO	Enabled via --marionette
+1525322299978	Marionette	INFO	Listening on port 33791
+1525322300095	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1525322300208	Marionette	DEBUG	loaded listener.js
+1525322300342	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525322301690	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525322301691	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525322302125	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/"
+1525322307444	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/"
+1525322512460	geckodriver	INFO	geckodriver 0.20.0
+1525322512474	geckodriver	INFO	Listening on 127.0.0.1:44069
+1525322513473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vXFU1DHnHAA7"
+1525322515368	Marionette	INFO	Enabled via --marionette
+1525322520366	Marionette	INFO	Listening on port 46419
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1525322520425	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525322520532	Marionette	DEBUG	loaded listener.js
+1525322520578	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525322521479	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525322521480	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525322522516	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/"
+1525322526209	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/"
+1525322660629	geckodriver	INFO	geckodriver 0.20.0
+1525322660643	geckodriver	INFO	Listening on 127.0.0.1:46359
+1525322661643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1rbSTena5P5n"
+1525322663506	Marionette	INFO	Enabled via --marionette
+1525322668140	Marionette	INFO	Listening on port 45841
+1525322668234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1525322668347	Marionette	DEBUG	loaded listener.js
+1525322668420	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525322669188	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525322669190	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525322672971	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://vit.edu.in/faculty/poonam-shah"
+1525322726327	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1525322727748	geckodriver::marionette	ERROR	Failed to stop browser process
+1525322800293	geckodriver	INFO	geckodriver 0.20.0
+1525322800309	geckodriver	INFO	Listening on 127.0.0.1:39019
+1525322801307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DQNhhkGCljYb"
+1525322803177	Marionette	INFO	Enabled via --marionette
+1525322807902	Marionette	INFO	Listening on port 37569
+1525322808005	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1525322808111	Marionette	DEBUG	loaded listener.js
+1525322808180	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525322808827	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525322808828	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525322809044	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+[Child 4686] WARNING: pipe error: Broken pipe: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4686] WARNING: pipe error: Broken pipe: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4686] WARNING: pipe error: Broken pipe: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 4686] WARNING: pipe error: Broken pipe: file /build/firefox-S0wyi8/firefox-55.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x80000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1525322809320	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1525322810930	geckodriver::marionette	ERROR	Failed to stop browser process
+1525323002387	geckodriver	INFO	geckodriver 0.20.0
+1525323002401	geckodriver	INFO	Listening on 127.0.0.1:33105
+1525323003399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.su50z1f8LxT6"
+1525323005294	Marionette	INFO	Enabled via --marionette
+1525323046934	geckodriver	INFO	geckodriver 0.20.0
+1525323046948	geckodriver	INFO	Listening on 127.0.0.1:47901
+1525323047949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jWy7VCK6uikc"
+1525323049822	Marionette	INFO	Enabled via --marionette
+1525323054396	Marionette	INFO	Listening on port 46295
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1525323054507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525323054627	Marionette	DEBUG	loaded listener.js
+1525323054692	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525323060653	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525323060653	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525323061119	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/"
+1525323065588	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/"
+1525323122496	geckodriver	INFO	geckodriver 0.20.0
+1525323122510	geckodriver	INFO	Listening on 127.0.0.1:50145
+1525323123511	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wGyLVtFjG05U"
+1525323125349	Marionette	INFO	Enabled via --marionette
+1525323129888	Marionette	INFO	Listening on port 34693
+1525323130008	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1525323130120	Marionette	DEBUG	loaded listener.js
+1525323130191	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525323130602	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525323130603	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525323131480	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://en.wikipedia.org/wiki/Vidyalankar_Institute_of_Technology"
+1525323141459	Marionette	DEBUG	Received DOM event "pageshow" for "https://en.wikipedia.org/wiki/Vidyalankar_Institute_of_Technology"
+1525323184459	geckodriver	INFO	geckodriver 0.20.0
+1525323184473	geckodriver	INFO	Listening on 127.0.0.1:33989
+1525323185473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NJ2nE6BWwQam"
+1525323187312	Marionette	INFO	Enabled via --marionette
+1525323191848	Marionette	INFO	Listening on port 43393
+1525323191952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1525323192059	Marionette	DEBUG	loaded listener.js
+1525323192125	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525323192807	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525323192808	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525323196790	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://vit.edu.in/faculty/akhil-masurkar"
+1525323198349	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1525323200064	geckodriver::marionette	ERROR	Failed to stop browser process
+1525323245144	geckodriver	INFO	geckodriver 0.20.0
+1525323245158	geckodriver	INFO	Listening on 127.0.0.1:47755
+1525323246157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5g2Sb4Oyzs9A"
+1525323248115	Marionette	INFO	Enabled via --marionette
+1525323252680	Marionette	INFO	Listening on port 40129
+1525323252807	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1525323252915	Marionette	DEBUG	loaded listener.js
+1525323252987	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525323256008	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525323256010	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525323259987	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://vit.edu.in/faculty/poonam-shah"
+1525323289000	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1525323290528	geckodriver::marionette	ERROR	Failed to stop browser process
+1525330947101	geckodriver	INFO	geckodriver 0.20.0
+1525330947189	geckodriver	INFO	Listening on 127.0.0.1:36861
+1525330948068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mlojO3D4QG7X"
+1525330950253	Marionette	INFO	Enabled via --marionette
+1525330955866	Marionette	INFO	Listening on port 42893
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1525330955926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525330956041	Marionette	DEBUG	loaded listener.js
+1525330956109	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525330958540	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525330958542	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525331898870	geckodriver	INFO	geckodriver 0.20.0
+1525331898885	geckodriver	INFO	Listening on 127.0.0.1:37351
+1525331899884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AgFuK1N6Usua"
+1525331901741	Marionette	INFO	Enabled via --marionette
+1525331906408	Marionette	INFO	Listening on port 42451
+1525331906517	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1525331906638	Marionette	DEBUG	loaded listener.js
+1525331906715	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525331908074	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525331908075	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525331909267	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/"
+1525331931982	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/"
+1525332094382	geckodriver	INFO	geckodriver 0.20.0
+1525332094396	geckodriver	INFO	Listening on 127.0.0.1:34049
+1525332095395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.o2gifaxVgyt8"
+1525332097292	Marionette	INFO	Enabled via --marionette
+1525332101703	Marionette	INFO	Listening on port 45309
+1525332101935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1525332102048	Marionette	DEBUG	loaded listener.js
+1525332102121	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525332103274	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525332103275	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525332104163	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/"
+1525332119444	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1525332141892	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/"
+1525336327454	geckodriver	INFO	geckodriver 0.20.0
+1525336327529	geckodriver	INFO	Listening on 127.0.0.1:35079
+1525336328431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9Fr8Uh0ekImU"
+1525336330627	Marionette	INFO	Enabled via --marionette
+1525336336123	Marionette	INFO	Listening on port 39523
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1525336336194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1525336336309	Marionette	DEBUG	loaded listener.js
+1525336336449	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525336337246	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525336337247	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525336337698	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/"
+1525336345469	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/"
+1525336458313	geckodriver	INFO	geckodriver 0.20.0
+1525336458326	geckodriver	INFO	Listening on 127.0.0.1:34209
+1525336459326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.53OjfsVvxgaV"
+1525336461152	Marionette	INFO	Enabled via --marionette
+1525336465807	Marionette	INFO	Listening on port 42211
+1525336465941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1525336466051	Marionette	DEBUG	loaded listener.js
+1525336466124	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525336466871	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525336466872	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525336467783	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/"
+1525336478188	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/"
+1525337393492	geckodriver	INFO	geckodriver 0.20.0
+1525337393505	geckodriver	INFO	Listening on 127.0.0.1:36561
+1525337394507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GMag9wi7TtQw"
+1525337396384	Marionette	INFO	Enabled via --marionette
+1525337401113	Marionette	INFO	Listening on port 46251
+1525337401222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/server.js, line 337: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1525337401336	Marionette	DEBUG	loaded listener.js
+1525337401422	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1525337407582	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1525337407583	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1525337421110	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://vit.edu.in/faculty/poonam-shah"
+1525337428820	Marionette	DEBUG	Received DOM event "pageshow" for "http://vit.edu.in/faculty/poonam-shah"

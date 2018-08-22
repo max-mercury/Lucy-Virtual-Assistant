@@ -1,0 +1,12 @@
+sudo apt-get install xdotool
+pip install requests and beautifulsoup4
+pip install selenium
+pywapi
+pip install SpeechRecognition
+pip install gTTS
+pip install wikipedia
+pip install pywapi
+sudo apt-get install mpg123
+vncserver :0 -geomtery 1920x1080 -depth 24
+sudo apt-get install python-pyaudio python3-pyaudio sox
+pip install pyaudio
